@@ -2,7 +2,7 @@
 
 This project simulates the work of a **performance analyst at Athletic Club** preparing a tactical report ahead of the match against **FC Barcelona**.
 
-The objective of the analysis is to identify key tactical behaviours of FC Barcelona and translate them into **clear and actionable information for both the coaching staff and the players**.
+The objective of the analysis is to identify key tactical behaviors of FC Barcelona and translate them into **clear and actionable information for both the coaching staff and the players**.
 
 Due to GitHub file size limitations, the presentation and video analysis are hosted externally. All links related to the project can be seen inside external_links.
 
@@ -41,7 +41,7 @@ The video focuses on highlighting **clear tactical patterns and situations that 
 - Matchday: **13**
 - Date: **22 November 2025**
 
-The analysis focuses on FC Barcelona’s behaviour in possession, defensive organisation and transition phases.
+The analysis focuses on FC Barcelona’s behavior in possession, defensive organisation and transition phases.
 
 ---
 
